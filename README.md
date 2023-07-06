@@ -1,6 +1,6 @@
 ## NAUTICA DEPTH-CAM OBJECT DETECTION
 
-A brief description of what this project does and who it's for
+This is my work in smart-india hackathon for NAUTICA team in carrying out the underground object detection using Intel-realsense-depth cam and flur thermal vision camera
 
 
 ## MY WORK
